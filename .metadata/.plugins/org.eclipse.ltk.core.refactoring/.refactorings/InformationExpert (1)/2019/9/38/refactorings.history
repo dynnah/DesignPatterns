@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;InformationExpert/src/model&apos;&#x0A;- Original project: &apos;InformationExpert (1)&apos;&#x0A;- Destination element: &apos;InformationExpert/src/model&apos;&#x0A;- Original elements:&#x0A;     Tipo.java&#x0A;     Cliente.java&#x0A;     Aluguel.java&#x0A;     Fita.java" description="Copy compilation units" destination="=InformationExpert/src&lt;model" element1="/InformationExpert\/src&lt;{Tipo.java" element2="/InformationExpert\/src&lt;{Cliente.java" element3="/InformationExpert\/src&lt;{Aluguel.java" element4="/InformationExpert\/src&lt;{Fita.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1568757798256" units="4" version="1.0"/>
+</session>

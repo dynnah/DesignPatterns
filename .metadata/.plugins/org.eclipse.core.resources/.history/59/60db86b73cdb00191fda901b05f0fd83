@@ -1,0 +1,30 @@
+package Model;
+
+public class PontuacaoController {
+	private Pontuacao ponto;
+	private Inimigo soldado;
+	private Inimigo espiao;
+	private Inimigo exercito;
+
+	public PontuacaoController() {
+		ponto = new Pontuacao();
+		soldado = new Soldado();
+		espiao = new Espiao();
+		exercito = new Exercito();
+	}
+	
+	public String Ataque(String inimigo) {
+		String result = "Ataque " + inimigo;
+		
+		if (inimigo=='soldado') {
+			ponto.setPontuacao(soldado.getPontos());
+		} else if (inimigo=='espiao') {
+			ponto.setPontuacao(espiao.getPontos());
+		} else if (inimigo=='exercito') {
+			
+		} else {
+			
+		}
+	}
+}
+

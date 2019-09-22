@@ -1,0 +1,15 @@
+package Model;
+
+public abstract class Inimigo {
+	private int inteligencia;
+	private int forca;
+	private int estrategia;
+	private int pontos;
+	
+	public Inimigo(int inteligencia, int forca, int estrategia, int pontos) {
+		this.inteligencia = inteligencia;
+		this.forca = forca;
+		this.estrategia = estrategia;
+		this.pontos = pontos;
+	}
+}

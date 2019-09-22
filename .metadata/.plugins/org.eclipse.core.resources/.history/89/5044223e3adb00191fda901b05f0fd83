@@ -1,0 +1,9 @@
+package Model;
+
+public class Exercito extends Inimigo {
+
+	public Exercito() {
+		//int inteligencia, int forca, int estrategia, int pontos
+		super(2,7,10,50);
+	}
+}
