@@ -1,8 +1,0 @@
-package Model;
-
-public class Espiao extends Inimigo {
-
-	public Espiao() {
-		
-	}
-}

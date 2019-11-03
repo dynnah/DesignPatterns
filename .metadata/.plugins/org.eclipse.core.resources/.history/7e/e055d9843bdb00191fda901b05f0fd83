@@ -1,9 +1,0 @@
-package Model;
-
-public class PontuacaoController {
-	private Pontuacao ponto;
-	private Inimigo espiao;
-	private Inimigo exercito;
-	private Inimigo soldado;
-
-}

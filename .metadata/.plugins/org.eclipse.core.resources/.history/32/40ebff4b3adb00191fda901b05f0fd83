@@ -1,8 +1,0 @@
-package Model;
-
-public class Soldado extends Inimigo {
-	public Soldado() {
-		//int inteligencia, int forca, int estrategia, int pontos
-		super(5,8,8,100);
-	}
-}

@@ -1,8 +1,0 @@
-package Model;
-
-public abstract class Inimigo {
-	private int pontos;
-	private int inteligencia;
-	private int forca;
-	private int estrategia;
-}
